@@ -1,0 +1,12 @@
+art==2.4
+certifi==2018.11.29
+chardet==3.0.4
+Click==7.0
+codecov==2.0.15
+coverage==4.5.2
+emoji==0.5.1
+idna==2.7
+Pillow==5.3.0
+progress==1.4
+requests==2.20.1
+urllib3==1.24.1
