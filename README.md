@@ -26,6 +26,15 @@ afterscan myimage.jpg --threshold 75 -f
 
 ## Demo
 
+When drawing this amazing logo, I found myself having a scan with lines in the background.
+
+By using this command I was able to produce the second image:
+
+
+```
+afterscan logo.jpg --threshold 75 -f
+```
+
 ![image-before](afterscan-logo-before.JPG)
 
 
