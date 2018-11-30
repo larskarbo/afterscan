@@ -29,5 +29,4 @@ setup(
             'afterscan=afterscan.afterscan:main'
         ]
     },
-    long_description=open('README.md').read(),
 )

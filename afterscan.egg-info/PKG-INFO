@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: afterscan
+Version: 0.1.0
+Summary: Turn sloppy photoscans into crisp black and white images
+Home-page: https://github.com/larskarbo/afterscan
+Author: Lars Karbo
+Author-email: mail@larskarbo.no
+License: Apache2
+Description: Very good app
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3

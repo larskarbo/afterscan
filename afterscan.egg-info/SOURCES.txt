@@ -1,0 +1,11 @@
+README.md
+setup.py
+afterscan/__init__.py
+afterscan/__main__.py
+afterscan/afterscan.py
+afterscan.egg-info/PKG-INFO
+afterscan.egg-info/SOURCES.txt
+afterscan.egg-info/dependency_links.txt
+afterscan.egg-info/entry_points.txt
+afterscan.egg-info/requires.txt
+afterscan.egg-info/top_level.txt
