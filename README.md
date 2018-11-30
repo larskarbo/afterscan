@@ -4,7 +4,15 @@
 
 ----
 
-Usage
+## Installation
+
+Use python 3
+
+```
+pip install afterscan
+```
+
+## Usage
 
 ```
 afterscan [OPTIONS] FILENAME
@@ -16,7 +24,7 @@ Example
 afterscan myimage.jpg --threshold 75 -f
 ```
 
-## Options
+### Options
 
 ```
 --threshold INTEGER         Threshold value between 0 and 255. Default=100
